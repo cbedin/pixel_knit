@@ -1,0 +1,56 @@
+Row 0:	50 st A
+Row 1:	32 st A, 2 st B, 16 st A
+Row 2:	31 st A, 5 st B, 14 st A
+Row 3:	29 st A, 9 st B, 12 st A
+Row 4:	28 st A, 11 st B, 11 st A
+Row 5:	28 st A, 11 st B, 11 st A
+Row 6:	28 st A, 3 st B, 5 st C, 2 st B, 12 st A
+Row 7:	27 st A, 4 st B, 1 st C, 1 st D, 3 st C, 14 st A
+Row 8:	27 st A, 4 st B, 5 st C, 14 st A
+Row 9:	26 st A, 4 st B, 6 st C, 1 st B, 13 st A
+Row 10:	24 st A, 7 st B, 2 st C, 1 st B, 1 st C, 6 st B, 9 st A
+Row 11:	24 st A, 8 st B, 2 st C, 7 st B, 5 st A, 4 st B
+Row 12:	24 st A, 9 st B, 1 st C, 8 st B, 2 st A, 6 st B
+Row 13:	23 st A, 8 st B, 6 st C, 10 st B, 1 st A, 2 st B
+Row 14:	23 st A, 7 st B, 7 st C, 9 st B, 4 st A
+Row 15:	23 st A, 7 st B, 5 st C, 4 st D, 7 st B, 4 st A
+Row 16:	24 st A, 5 st B, 3 st C, 1 st E, 6 st D, 7 st B, 4 st A
+Row 17:	24 st A, 5 st B, 2 st C, 1 st B, 1 st E, 6 st C, 6 st B, 5 st A
+Row 18:	24 st A, 5 st B, 2 st C, 2 st B, 7 st C, 5 st B, 5 st A
+Row 19:	25 st A, 4 st B, 2 st C, 3 st B, 7 st C, 3 st B, 6 st A
+Row 20:	25 st A, 3 st B, 2 st C, 4 st B, 8 st C, 2 st B, 1 st A, 2 st C, 3 st A
+Row 21:	26 st A, 1 st B, 3 st C, 2 st B, 7 st C, 2 st B, 3 st C, 1 st A, 2 st C, 3 st A
+Row 22:	26 st A, 3 st C, 2 st B, 10 st C, 1 st B, 4 st C, 4 st A
+Row 23:	25 st A, 3 st C, 1 st A, 3 st B, 4 st D, 5 st C, 9 st A
+Row 24:	20 st A, 6 st C, 5 st A, 1 st B, 5 st D, 3 st C, 10 st A
+Row 25:	22 st A, 3 st C, 6 st A, 8 st D, 11 st A
+Row 26:	31 st A, 8 st D, 11 st A
+Row 27:	30 st A, 9 st D, 11 st A
+Row 28:	7 st A, 5 st C, 18 st A, 9 st D, 11 st A
+Row 29:	8 st A, 5 st C, 17 st A, 8 st D, 12 st A
+Row 30:	9 st A, 5 st C, 16 st A, 8 st D, 12 st A
+Row 31:	9 st A, 6 st C, 14 st A, 9 st D, 12 st A
+Row 32:	9 st A, 6 st C, 14 st A, 8 st D, 13 st A
+Row 33:	10 st A, 5 st C, 14 st A, 7 st D, 14 st A
+Row 34:	10 st A, 6 st C, 13 st A, 7 st D, 14 st A
+Row 35:	10 st A, 6 st C, 12 st A, 7 st D, 15 st A
+Row 36:	10 st A, 6 st C, 12 st A, 6 st D, 16 st A
+Row 37:	2 st A, 6 st C, 3 st A, 5 st C, 11 st A, 6 st D, 17 st A
+Row 38:	1 st A, 8 st C, 2 st A, 5 st C, 10 st A, 6 st D, 18 st A
+Row 39:	4 st A, 13 st C, 8 st A, 6 st D, 19 st A
+Row 40:	5 st A, 12 st C, 6 st A, 7 st D, 20 st A
+Row 41:	6 st A, 12 st C, 10 st D, 22 st A
+Row 42:	7 st A, 10 st C, 2 st A, 6 st D, 25 st A
+Row 43:	9 st A, 6 st C, 35 st A
+Row 44:	50 st A
+Row 45:	50 st A
+Row 46:	50 st A
+Row 47:	50 st A
+Row 48:	50 st A
+Row 49:	50 st A
+
+A: (0, 0, 0, 0)
+B: (192, 62, 53, 255)
+C: (201, 202, 174, 250)
+D: (36, 157, 136, 255)
+E: (201, 202, 174, 255)

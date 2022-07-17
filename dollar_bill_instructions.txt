@@ -1,0 +1,43 @@
+Row 0:	100 st c1
+Row 1:	100 st c1
+Row 2:	2 st c1,	23 st c2,	10 st c1,	1 st c2,	2 st c1,	1 st c2,	1 st c1,	1 st c2,	2 st c1,	1 st c2,	5 st c1,	1 st c2,	2 st c1,	1 st c2,	10 st c1,	1 st c2,	1 st c1,	1 st c2,	9 st c1,	23 st c2,	2 st c1
+Row 3:	2 st c1,	3 st c2,	1 st c1,	7 st c2,	1 st c1,	11 st c2,	1 st c1,	2 st c2,	1 st c1,	2 st c2,	3 st c1,	2 st c2,	2 st c1,	1 st c2,	2 st c1,	3 st c2,	5 st c1,	1 st c2,	2 st c1,	1 st c2,	1 st c1,	1 st c2,	3 st c1,	3 st c2,	1 st c1,	2 st c2,	5 st c1,	1 st c2,	1 st c1,	1 st c2,	1 st c1,	13 st c2,	1 st c1,	11 st c2,	2 st c1
+Row 4:	2 st c1,	4 st c2,	1 st c1,	1 st c2,	1 st c1,	4 st c2,	72 st c1,	1 st c2,	1 st c1,	5 st c2,	1 st c1,	1 st c2,	1 st c1,	1 st c2,	1 st c1,	1 st c2,	2 st c1
+Row 5:	2 st c1,	2 st c2,	2 st c1,	3 st c2,	1 st c1,	2 st c2,	1 st c1,	1 st c2,	71 st c1,	10 st c2,	1 st c1,	2 st c2,	2 st c1
+Row 6:	2 st c1,	2 st c2,	1 st c1,	5 st c2,	1 st c1,	1 st c2,	1 st c1,	1 st c2,	3 st c1,	1 st c2,	1 st c1,	2 st c2,	1 st c1,	2 st c2,	2 st c1,	1 st c2,	2 st c1,	1 st c2,	1 st c1,	1 st c2,	1 st c1,	1 st c2,	1 st c1,	1 st c2,	2 st c1,	1 st c2,	1 st c1,	1 st c2,	1 st c1,	2 st c2,	1 st c1,	1 st c2,	1 st c1,	1 st c2,	1 st c1,	2 st c2,	1 st c1,	4 st c2,	2 st c1,	2 st c2,	1 st c1,	2 st c2,	2 st c1,	1 st c2,	1 st c1,	2 st c2,	1 st c1,	1 st c2,	2 st c1,	4 st c2,	1 st c1,	1 st c2,	2 st c1,	1 st c2,	2 st c1,	3 st c2,	1 st c1,	8 st c2,	1 st c1,	1 st c2,	2 st c1
+Row 7:	2 st c1,	1 st c2,	1 st c1,	2 st c2,	3 st c1,	3 st c2,	5 st c1,	1 st c2,	1 st c1,	2 st c2,	1 st c1,	1 st c2,	3 st c1,	1 st c2,	2 st c1,	1 st c2,	1 st c1,	1 st c2,	1 st c1,	1 st c2,	1 st c1,	1 st c2,	2 st c1,	1 st c2,	1 st c1,	1 st c2,	2 st c1,	1 st c2,	1 st c1,	1 st c2,	2 st c1,	3 st c2,	1 st c1,	1 st c2,	2 st c1,	2 st c2,	1 st c1,	2 st c2,	1 st c1,	2 st c2,	2 st c1,	1 st c2,	1 st c1,	2 st c2,	1 st c1,	1 st c2,	2 st c1,	2 st c2,	1 st c1,	1 st c2,	1 st c1,	1 st c2,	2 st c1,	1 st c2,	2 st c1,	2 st c2,	2 st c1,	3 st c2,	3 st c1,	2 st c2,	1 st c1,	1 st c2,	2 st c1
+Row 8:	2 st c1,	1 st c2,	1 st c1,	2 st c2,	3 st c1,	5 st c2,	71 st c1,	7 st c2,	2 st c1,	4 st c2,	2 st c1
+Row 9:	2 st c1,	1 st c2,	1 st c1,	2 st c2,	3 st c1,	1 st c2,	1 st c1,	2 st c2,	73 st c1,	5 st c2,	3 st c1,	4 st c2,	2 st c1
+Row 10:	2 st c1,	1 st c2,	1 st c1,	2 st c2,	3 st c1,	1 st c2,	1 st c1,	2 st c2,	72 st c1,	4 st c2,	1 st c1,	2 st c2,	2 st c1,	4 st c2,	2 st c1
+Row 11:	5 st c1,	1 st c2,	3 st c1,	5 st c2,	1 st c1,	1 st c2,	24 st c1,	6 st c2,	1 st c1,	5 st c2,	1 st c1,	6 st c2,	27 st c1,	3 st c2,	1 st c1,	1 st c2,	3 st c1,	1 st c2,	1 st c1,	2 st c2,	2 st c1
+Row 12:	2 st c1,	1 st c2,	1 st c1,	2 st c2,	3 st c1,	3 st c2,	1 st c1,	1 st c2,	27 st c1,	7 st c2,	3 st c1,	7 st c2,	28 st c1,	5 st c2,	3 st c1,	4 st c2,	2 st c1
+Row 13:	2 st c1,	1 st c2,	1 st c1,	2 st c2,	3 st c1,	3 st c2,	1 st c1,	1 st c2,	28 st c1,	4 st c2,	7 st c1,	5 st c2,	29 st c1,	1 st c2,	1 st c1,	2 st c2,	3 st c1,	4 st c2,	2 st c1
+Row 14:	2 st c1,	1 st c2,	1 st c1,	8 st c2,	29 st c1,	5 st c2,	8 st c1,	4 st c2,	31 st c1,	7 st c2,	1 st c1,	1 st c2,	2 st c1
+Row 15:	2 st c1,	1 st c2,	1 st c1,	7 st c2,	30 st c1,	3 st c2,	10 st c1,	4 st c2,	32 st c1,	5 st c2,	1 st c1,	2 st c2,	2 st c1
+Row 16:	2 st c1,	2 st c2,	1 st c1,	5 st c2,	11 st c1,	5 st c2,	15 st c1,	5 st c2,	9 st c1,	4 st c2,	31 st c1,	8 st c2,	2 st c1
+Row 17:	2 st c1,	3 st c2,	1 st c1,	3 st c2,	11 st c1,	8 st c2,	12 st c1,	7 st c2,	8 st c1,	4 st c2,	32 st c1,	7 st c2,	2 st c1
+Row 18:	2 st c1,	4 st c2,	2 st c1,	1 st c2,	10 st c1,	3 st c2,	4 st c1,	2 st c2,	12 st c1,	5 st c2,	2 st c1,	5 st c2,	1 st c1,	2 st c2,	1 st c1,	3 st c2,	31 st c1,	6 st c2,	1 st c1,	1 st c2,	2 st c1
+Row 19:	2 st c1,	2 st c2,	1 st c1,	2 st c2,	1 st c1,	1 st c2,	10 st c1,	2 st c2,	5 st c1,	3 st c2,	10 st c1,	4 st c2,	4 st c1,	1 st c2,	3 st c1,	1 st c2,	4 st c1,	3 st c2,	12 st c1,	6 st c2,	16 st c1,	1 st c2,	1 st c1,	1 st c2,	1 st c1,	1 st c2,	2 st c1
+Row 20:	2 st c1,	1 st c2,	2 st c1,	3 st c2,	11 st c1,	2 st c2,	1 st c1,	1 st c2,	4 st c1,	2 st c2,	10 st c1,	7 st c2,	1 st c1,	1 st c2,	7 st c1,	5 st c2,	10 st c1,	8 st c2,	15 st c1,	3 st c2,	1 st c1,	1 st c2,	2 st c1
+Row 21:	2 st c1,	1 st c2,	2 st c1,	2 st c2,	12 st c1,	2 st c2,	6 st c1,	2 st c2,	10 st c1,	10 st c2,	2 st c1,	1 st c2,	3 st c1,	5 st c2,	9 st c1,	3 st c2,	1 st c1,	2 st c2,	1 st c1,	3 st c2,	15 st c1,	1 st c2,	1 st c1,	2 st c2,	2 st c1
+Row 22:	2 st c1,	4 st c2,	13 st c1,	2 st c2,	5 st c1,	2 st c2,	11 st c1,	10 st c2,	5 st c1,	6 st c2,	9 st c1,	3 st c2,	2 st c1,	1 st c2,	1 st c1,	3 st c2,	14 st c1,	5 st c2,	2 st c1
+Row 23:	2 st c1,	3 st c2,	1 st c1,	1 st c2,	13 st c1,	3 st c2,	2 st c1,	3 st c2,	11 st c1,	10 st c2,	5 st c1,	6 st c2,	9 st c1,	3 st c2,	1 st c1,	6 st c2,	12 st c1,	1 st c2,	1 st c1,	5 st c2,	2 st c1
+Row 24:	2 st c1,	5 st c2,	14 st c1,	6 st c2,	12 st c1,	10 st c2,	5 st c1,	6 st c2,	9 st c1,	4 st c2,	1 st c1,	5 st c2,	13 st c1,	6 st c2,	2 st c1
+Row 25:	2 st c1,	3 st c2,	18 st c1,	2 st c2,	14 st c1,	7 st c2,	1 st c1,	4 st c2,	2 st c1,	7 st c2,	9 st c1,	4 st c2,	1 st c1,	5 st c2,	13 st c1,	6 st c2,	2 st c1
+Row 26:	2 st c1,	3 st c2,	1 st c1,	1 st c2,	32 st c1,	21 st c2,	10 st c1,	9 st c2,	14 st c1,	3 st c2,	1 st c1,	1 st c2,	2 st c1
+Row 27:	2 st c1,	1 st c2,	2 st c1,	2 st c2,	32 st c1,	12 st c2,	2 st c1,	7 st c2,	11 st c1,	6 st c2,	16 st c1,	5 st c2,	2 st c1
+Row 28:	2 st c1,	5 st c2,	9 st c1,	1 st c2,	22 st c1,	10 st c2,	3 st c1,	7 st c2,	14 st c1,	1 st c2,	19 st c1,	5 st c2,	2 st c1
+Row 29:	2 st c1,	4 st c2,	34 st c1,	7 st c2,	5 st c1,	7 st c2,	1 st c1,	1 st c2,	32 st c1,	5 st c2,	2 st c1
+Row 30:	2 st c1,	6 st c2,	32 st c1,	8 st c2,	5 st c1,	8 st c2,	31 st c1,	1 st c2,	1 st c1,	4 st c2,	2 st c1
+Row 31:	2 st c1,	8 st c2,	28 st c1,	10 st c2,	6 st c1,	4 st c2,	1 st c1,	2 st c2,	29 st c1,	1 st c2,	1 st c1,	2 st c2,	1 st c1,	3 st c2,	2 st c1
+Row 32:	2 st c1,	4 st c2,	1 st c1,	3 st c2,	28 st c1,	2 st c2,	1 st c1,	10 st c2,	3 st c1,	7 st c2,	25 st c1,	1 st c2,	2 st c1,	3 st c2,	1 st c1,	5 st c2,	2 st c1
+Row 33:	2 st c1,	4 st c2,	1 st c1,	4 st c2,	25 st c1,	3 st c2,	1 st c1,	1 st c2,	1 st c1,	9 st c2,	3 st c1,	3 st c2,	1 st c1,	4 st c2,	8 st c1,	1 st c2,	18 st c1,	3 st c2,	1 st c1,	5 st c2,	2 st c1
+Row 34:	2 st c1,	1 st c2,	1 st c1,	2 st c2,	1 st c1,	4 st c2,	27 st c1,	13 st c2,	3 st c1,	2 st c2,	1 st c1,	7 st c2,	25 st c1,	3 st c2,	1 st c1,	5 st c2,	2 st c1
+Row 35:	2 st c1,	1 st c2,	1 st c1,	2 st c2,	1 st c1,	4 st c2,	32 st c1,	5 st c2,	1 st c1,	2 st c2,	3 st c1,	2 st c2,	1 st c1,	2 st c2,	1 st c1,	2 st c2,	7 st c1,	1 st c2,	20 st c1,	2 st c2,	1 st c1,	5 st c2,	2 st c1
+Row 36:	2 st c1,	4 st c2,	1 st c1,	2 st c2,	20 st c1,	41 st c2,	20 st c1,	2 st c2,	2 st c1,	4 st c2,	2 st c1
+Row 37:	2 st c1,	1 st c2,	2 st c1,	4 st c2,	19 st c1,	3 st c2,	2 st c1,	1 st c2,	1 st c1,	1 st c2,	2 st c1,	2 st c2,	3 st c1,	1 st c2,	2 st c1,	1 st c2,	3 st c1,	1 st c2,	1 st c1,	1 st c2,	2 st c1,	1 st c2,	2 st c1,	2 st c2,	2 st c1,	1 st c2,	4 st c1,	2 st c2,	22 st c1,	7 st c2,	2 st c1
+Row 38:	2 st c1,	2 st c2,	5 st c1,	4 st c2,	1 st c1,	17 st c2,	2 st c1,	1 st c2,	2 st c1,	1 st c2,	6 st c1,	1 st c2,	4 st c1,	1 st c2,	1 st c1,	1 st c2,	1 st c1,	1 st c2,	5 st c1,	1 st c2,	4 st c1,	1 st c2,	3 st c1,	23 st c2,	1 st c1,	4 st c2,	1 st c1,	2 st c2,	2 st c1
+Row 39:	2 st c1,	3 st c2,	3 st c1,	83 st c2,	2 st c1,	1 st c2,	1 st c1,	3 st c2,	2 st c1
+Row 40:	100 st c1
+Row 41:	100 st c1
+Row 42:	100 st c1
