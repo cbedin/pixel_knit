@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% block title %}{% endblock %}</title>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=League+Spartan:wght@300&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='site.css')}}">
+  </head>
+  <body>
+    <header>
+        <div class="pfp-frame">
+            <a href="{{ url_for('home') }}">
+                <img src="{{ url_for('static', filename='imgs/pfp.jpg')}}" alt="PFP">
+            </a>
+        </div>
+        <table>
+            <thead>
+            <tr>
+                <th colspan="2" class="link">
+                    <a href="/">Cooper Bedin</a>
+                </th>
+            </tr>
+            </thead>
+            <tr>
+                <td>💬</td>
+                <td style="font-family:sans-serif; font-size:0.8em;">
+                    [kupɚ bɛdin]
+                </td>
+            </tr>
+            <tr>
+                <td>🔻</td>
+                <td>(any/all)</td>
+            </tr>
+            <tr>
+                <td>📧</td>
+                <td class="link">
+                    <a href="mailto:cbedin@ucsb.edu" target="_blank">cbedin@ucsb.edu</a>
+                </td>
+            </tr>
+            <tr>
+                <td>🐦</td>
+                <td class="link">
+                    <a href="https://twitter.com/ceaslugs" target="_blank">@ceaslugs</a>
+                </td>
+            </tr>
+            <tr>
+                <td>💾</td>
+                <td class="link">
+                    <a href="https://github.com/cbedin" target="_blank">cbedin</a>
+                </td>
+            </tr>
+            <tr>
+                <td>📂</td>
+                <td class="link">
+                    <a href="{{ url_for('cv') }}">CV</a>
+                </td>
+            </tr>
+        </table>
+    </header>
+    <div id="main">
+        {% block content %}
+        {% endblock %}
+    </div>
+  </body>
+</html>
