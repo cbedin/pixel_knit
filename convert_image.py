@@ -4,10 +4,8 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from collections import Counter
 
-def convert_image(infile_name, num_stitches_wide, num_colors=2):
-    fname = infile_name[:infile_name.index('.')]
-
-    pic = imageio.imread(infile_name)
+def convert_to_pixels(infile_name, num_stitches_wide, num_colors, in_folder, out_folder):
+    pic = imageio.imread(f"static/{in_folder}/{infile_name}")
     box_size = pic.shape[1] // num_stitches_wide
     pic_fit = np.reshape(pic, (-1, pic.shape[-1]))
     kmeans = KMeans(n_clusters=num_colors, random_state=0).fit(pic_fit)
@@ -27,10 +25,14 @@ def convert_image(infile_name, num_stitches_wide, num_colors=2):
     block_pic = np.asarray(block_pic)
     diff = (block_pic.shape[1] - num_stitches_wide) // 2
     block_pic = block_pic[:, diff:num_stitches_wide + diff, :]
-    plt.imsave(f'static/imgs_out/{fname}_out.png', block_pic)
+    fname = infile_name[:infile_name.index('.')]
+    out_fname = f'{fname}_out.png'
+    plt.imsave(f'static/{out_folder}/{out_fname}', block_pic)
+    return out_fname
 
+def convert_to_instructions(infile_name, num_stitches_wide, num_colors, out_folder):
+    # DEAL WITH LATER
     f = open(f'static/instructions_out/{fname}_instructions.txt', 'w')
-    labels = np.reshape(kmeans.labels_, pic.shape[:-1])
     color_map = {}
     color_count = 0
     for row in range(block_pic.shape[0]):
