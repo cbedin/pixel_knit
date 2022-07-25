@@ -7,7 +7,7 @@ IN_FOLDER = "imgs"
 OUT_FOLDER = "imgs_out"
 
 @app.route('/upload')
-def upload_file():
+def upload():
     return render_template('upload.html')
 	
 @app.route('/convert', methods = ['POST'])
@@ -18,7 +18,7 @@ def convert():
         num_colors = int(request.form.get('num_colors'))
         in_fname = secure_filename(f.filename)
         f.save(f"static/{IN_FOLDER}/{in_fname}")
-        out_fname = convert_to_pixels(in_fname, num_stitches, num_colors, IN_FOLDER, OUT_FOLDER)
+        out_arr, out_fname = convert_to_pixels(in_fname, num_stitches, num_colors, IN_FOLDER, OUT_FOLDER)
         in_fname = f"{IN_FOLDER}/{in_fname}"
         out_fname = f"{OUT_FOLDER}/{out_fname}"
         return render_template('converted.html', in_fname=in_fname, out_fname=out_fname)

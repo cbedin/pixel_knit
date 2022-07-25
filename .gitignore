@@ -3,3 +3,4 @@ __pycache__
 static/imgs/*
 static/imgs_out/*
 static/instructions_out/*
+*.DS_Store
