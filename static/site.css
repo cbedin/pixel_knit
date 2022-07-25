@@ -1,0 +1,53 @@
+:root {
+    --heading-font: 'Archivo Black', Verdana, sans-serif;
+    --body-font: 'League Spartan', Verdana, sans-serif;
+}
+
+* {
+    color: #0B0F10;
+}
+
+body {
+    background-color: var(--background-color);
+    font-family: var(--body-font);
+    background-color: #71A897;
+}
+
+header {
+    font-family: var(--heading-font);
+    background-color: #EDFFA3;
+    font-size: large;
+    margin-top: 0;
+    padding: 10px;
+}
+
+#main {
+    background-color: #ACFFDB;
+    width: 90%;
+    font-size: medium;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+#upload-form {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+td {
+    width: 50%;
+    padding: 0;
+}
+
+.b-and-a {
+    width: 100%;
+}
