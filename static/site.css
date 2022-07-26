@@ -51,3 +51,9 @@ td {
 .b-and-a {
     width: 100%;
 }
+
+#instructions {
+    background-color: #FFFFFF;
+    padding: 10px;
+    font-size: small;
+}
