@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% block title %}{% endblock %}</title>
+    <title>PixelKnit: {% block title %}{% endblock %}</title>
     <meta charset="UTF-8">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -10,7 +10,7 @@
   </head>
   <body>
     <header>
-        <a href="{{ url_for('upload') }}">Pixelate images for needle arts</a>
+        <a href="{{ url_for('upload') }}">PixelKnit: Pixelate images for needle arts</a>
     </header>
     <div id="main">
         {% block content %}

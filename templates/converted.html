@@ -1,8 +1,12 @@
 {% extends "layout.html" %}
 {% block title %}
-Step 2: Convert
+Converted image
 {% endblock %}
 {% block content %}
+<h1>Image preview</h1>
+This is a preview of what your completed project would look like! If you're not
+satisfied with something you see, scroll all the way bottom and you can tweak
+your parameters until you are.
 <table>
     <tr>
         <td><img src="{{ url_for('static', filename=in_fname) }}" class="b-and-a" /></td>
@@ -13,6 +17,19 @@ Step 2: Convert
         <td>After</td>
     </tr>
 </table>
+<h1>Instructions</h1>
+These are instructions for how to work your project—rows are displayed in
+ascending order from top to bottom, and each row gives instructions for working
+from left to right. Colors are indexed by letters in these instructions, and you
+can scroll to the very bottom to see which letters correspond to which colors.
+<br><br>
 <div id="instructions">{{ instructions | safe }}</div>
+<h1>Edit parameters</h1>
+Here you can tweak the parameters if you want to adjust your gauge, image size,
+or number of colors to use. If you're not satisfied with the resolution of your
+project, you'll either want to increase the size of the image, or you can swatch
+with a smaller gauge needle. If you want to try with a new picture, you can go
+<a href="{{ url_for('upload') }}">back to the upload page</a>.
+<br><br>
 {% include 'form.html' %}
 {% endblock %}

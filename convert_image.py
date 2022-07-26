@@ -31,7 +31,7 @@ def convert_to_instructions(out_arr):
     color_map = {}
     color_count = 0
     for row in range(out_arr.shape[0]):
-        instructions += f'Row {row}:\t'
+        instructions += f'<strong>Row {row}:</strong>\t'
         tracking_color = None
         count = 0
         for col in range(out_arr.shape[1]):
@@ -54,5 +54,13 @@ def convert_to_instructions(out_arr):
                 count += 1
 
     instructions += "<br>"
-    instructions += '<br>'.join([f"Color {name}: {color}" for color, name in color_map.items()])
+    instructions += '<br>'.join([f"Color {name}: {_to_hex(color)}" for color, name in color_map.items()])
     return instructions
+
+def _to_hex(color):
+    to_return = "#"
+    for c in color:
+        h = hex(c)[2:]
+        h = "0" * (2 - len(h)) + h
+        to_return += h
+    return to_return.upper()
