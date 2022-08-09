@@ -1,10 +1,14 @@
 from flask import Flask, render_template, request, redirect, url_for
 from werkzeug.utils import secure_filename
-from convert_image import convert_to_pixels, convert_to_instructions
+from static.convert_image import convert_to_pixels, convert_to_instructions
 
 app = Flask(__name__)
 IN_FOLDER = "imgs"
 OUT_FOLDER = "imgs_out"
+
+@app.route('/')
+def home():
+    return redirect(url_for('upload'))
 
 @app.route('/upload')
 def upload():

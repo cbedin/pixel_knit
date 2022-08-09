@@ -12,7 +12,7 @@ def convert_to_pixels(infile_name, stitch_width, stitch_height, proj_width, colo
     new_pic = np.asarray([centers[i] for i in kmeans.labels_])
     new_pic = np.reshape(new_pic, pic.shape)
     block_width = round(pic.shape[1] / (proj_width / stitch_width))
-    block_height = round(pic.shape[0] / (proj_width * pic.shape[1] / pic.shape[0] / stitch_height))
+    block_height = round(pic.shape[0] / (proj_width * pic.shape[0] / pic.shape[1] / stitch_height))
     for row in range(0, new_pic.shape[0], block_height):
         for col in range(0, new_pic.shape[1], block_width):
             slice = new_pic[row:row + block_height, col:col + block_width, :]
@@ -58,9 +58,12 @@ def convert_to_instructions(out_arr):
     return instructions
 
 def _to_hex(color):
-    to_return = "#"
+    color_str = "#"
     for c in color:
         h = hex(c)[2:]
         h = "0" * (2 - len(h)) + h
-        to_return += h
-    return to_return.upper()
+        color_str += h
+    color_str = color_str.upper()
+    color_val = int(color_str[1:], 16)
+    text_color = '#FFF' if color_val < 0x888888 else '#000'
+    return f"<span class='color-block' style='background-color: {color_str}; color: {text_color};'>{color_str}</span>"
