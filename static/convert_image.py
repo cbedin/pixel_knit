@@ -1,5 +1,6 @@
 import numpy as np
-import imageio.v2 as imageio
+# import imageio.v2 as imageio
+import imageio
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from collections import Counter
